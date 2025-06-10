@@ -1,0 +1,106 @@
+@import "tailwindcss";
+/* Custom styles with sophisticated color palette based on color theory */
+
+:root {
+  /* Primary colors - muted teal/blue-green palette */
+  --primary-50: #e6f3f3;
+  --primary-100: #c2e2e2;
+  --primary-200: #9cd0d0;
+  --primary-300: #75bcbd;
+  --primary-400: #5aadae;
+  --primary-500: #419e9f;
+  --primary-600: #3c9293;
+  --primary-700: #358384;
+  --primary-800: #2f7575;
+  --primary-900: #255a5b;
+
+  /* Neutral colors - warm grays */
+  --neutral-50: #f8f7f6;
+  --neutral-100: #eae7e5;
+  --neutral-200: #dcd7d3;
+  --neutral-300: #cdc7c1;
+  --neutral-400: #c0b9b2;
+  --neutral-500: #b2aaa1;
+  --neutral-600: #a59c92;
+  --neutral-700: #938a7e;
+  --neutral-800: #7c7369;
+  --neutral-900: #5f584e;
+  
+  /* Accent colors - for charts and highlights */
+  --accent-success: #7cb490; /* muted green */
+  --accent-warning: #e6c59e; /* soft amber */
+  --accent-info: #8fb5d5;    /* muted blue */
+  --accent-error: #d8876f;   /* muted coral/red */
+  --accent-purple: #a692b7;  /* muted purple */
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: var(--neutral-50);
+  color: var(--neutral-900);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-xl shadow-sm border p-6;
+    border-color: var(--neutral-200);
+    border-width: 1px;
+  }
+  
+  .btn {
+    @apply px-4 py-2 rounded-md font-medium transition-colors duration-150;
+  }
+  
+  .btn-primary {
+    background-color: var(--primary-600);
+    color: white;
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--primary-700);
+  }
+  
+  /* Status badge styles */
+  .badge {
+    @apply px-2.5 py-1 text-xs font-medium rounded-full;
+  }
+  
+  .badge-todo {
+    background-color: var(--neutral-100);
+    color: var(--neutral-800);
+  }
+  
+  .badge-progress {
+    background-color: var(--accent-warning);
+    color: #7c5d2f;
+  }
+  
+  .badge-review {
+    background-color: var(--accent-info);
+    color: #2c5282;
+  }
+  
+  .badge-done {
+    background-color: var(--accent-success);
+    color: #22543d;
+  }
+  
+  /* Priority badge styles */
+  .badge-high {
+    background-color: var(--accent-error);
+    color: #742a2a;
+  }
+  
+  .badge-medium {
+    background-color: var(--accent-warning);
+    color: #7c5d2f;
+  }
+  
+  .badge-low {
+    background-color: var(--accent-info);
+    color: #2c5282;
+  }
+}

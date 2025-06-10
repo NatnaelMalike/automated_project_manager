@@ -1,0 +1,184 @@
+[
+  {
+    "jiraId": "10039",
+    "description": "Pomama",
+    "assignee": "Nati",
+    "deadline": "2025-05-01",
+    "slackTs": "1745488595.348709"
+  },
+  {
+    "jiraId": "10041",
+    "description": "Natimama",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745488735.186349"
+  },
+  {
+    "jiraId": "10043",
+    "description": "Pay cursor Subscription",
+    "assignee": "Nati",
+    "deadline": "2025-05-01",
+    "slackTs": "1745498921.489489"
+  },
+  {
+    "jiraId": "10045",
+    "description": "finish up this dashboard ASAP",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745500588.087889"
+  },
+  {
+    "jiraId": "10048",
+    "description": "<@U08PA0448S2> has joined the channel",
+    "assignee": "Nati",
+    "deadline": "2025-05-01",
+    "slackTs": "1745502717.438179"
+  },
+  {
+    "jiraId": "10050",
+    "description": "hey nati",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745502757.673679"
+  },
+  {
+    "jiraId": "10052",
+    "description": "do the dishes",
+    "assignee": "Nati",
+    "deadline": "2025-04-23",
+    "slackTs": "1745505175.893429"
+  },
+  {
+    "jiraId": "10055",
+    "description": "nati for tuesday",
+    "assignee": "Nati",
+    "deadline": "2025-04-28",
+    "slackTs": "1745506238.558239"
+  },
+  {
+    "jiraId": "10057",
+    "description": "hey today",
+    "assignee": "Pomi",
+    "deadline": "2025-04-23",
+    "slackTs": "1745507126.831009"
+  },
+  {
+    "jiraId": "10059",
+    "description": "hey now",
+    "assignee": "Nati",
+    "deadline": "2025-05-01",
+    "slackTs": "1745507137.736179"
+  },
+  {
+    "jiraId": "10061",
+    "description": "hey after 1 min",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745507153.143799"
+  },
+  {
+    "jiraId": "10071",
+    "description": "Do the Admin Dashboard For Tommorow",
+    "assignee": "Nati",
+    "deadline": "2025-05-01",
+    "slackTs": "1745532340.203919"
+  },
+  {
+    "jiraId": "10073",
+    "description": "Fix Login bug",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745533745.681849"
+  },
+  {
+    "jiraId": "10075",
+    "description": "Create an Admin Dashboard ASAP",
+    "assignee": "Nati",
+    "deadline": "2025-05-01",
+    "slackTs": "1745535052.575759"
+  },
+  {
+    "jiraId": "10077",
+    "description": "hjb",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745537317.873989"
+  },
+  {
+    "jiraId": "10079",
+    "description": "Create a login page",
+    "assignee": "Nati",
+    "deadline": "2025-04-24",
+    "slackTs": "1745537009.574419"
+  },
+  {
+    "jiraId": "10081",
+    "description": "ok",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745537101.359639"
+  },
+  {
+    "jiraId": "10083",
+    "description": "Create a login page",
+    "assignee": "Nati",
+    "deadline": "2025-04-24",
+    "slackTs": "1745537202.930799"
+  },
+  {
+    "jiraId": "10085",
+    "description": "update the admin dashboard for tuesday",
+    "assignee": "Pomi",
+    "deadline": "2025-04-28",
+    "slackTs": "1745537650.100619"
+  },
+  {
+    "jiraId": "10087",
+    "description": "create a login page",
+    "assignee": "Nati",
+    "deadline": "2025-05-01",
+    "slackTs": "1745537940.477649"
+  },
+  {
+    "jiraId": "10089",
+    "description": "okery",
+    "assignee": "Pomi",
+    "deadline": "2025-05-01",
+    "slackTs": "1745538970.374869"
+  },
+  {
+    "jiraId": "10091",
+    "description": "Create a forget password functionality",
+    "assignee": "Nati",
+    "deadline": "2025-04-24",
+    "slackTs": "1745539164.572479"
+  },
+  {
+    "jiraId": "10093",
+    "description": "create an admin dashboard ASAP",
+    "assignee": "Pomi",
+    "deadline": "2025-05-02",
+    "slackTs": "1745539874.628479"
+  },
+  {
+    "jiraId": "10095",
+    "description": "built a user dashboard",
+    "assignee": "Nati",
+    "deadline": "2025-05-02",
+    "slackTs": "1745541255.991389"
+  },
+  {
+    "jiraId": "10097",
+    "description": "build a dashboard",
+    "assignee": "Pomi",
+    "deadline": "2025-05-02",
+    "slackTs": "1745541780.698389"
+  },
+  {
+    "jiraId": "10099",
+    "description": "build login dashboard",
+    "assignee": "Nati",
+    "deadline": "2025-05-02",
+    "slackTs": "1745542447.240209"
+  }
+]
